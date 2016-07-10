@@ -35,7 +35,7 @@ Moving a file is quite easy and there are two methods to accomplish it:
 #### Run git cli command
 >git mv *source_file* *destination_file*
 
-A good example  would be the following:
+A good example  would be the following command that moves the file from ***Helpers*** to ***Filters*** folder as we did with drag-and-drop:
 >git mv *Git.History.Web\****Helpers****\MovableSecurityHelperV5.cs* *Git.History.Web\****Filters****\MovableSecurityHelperV5.cs*
 
 Running the following command will inform you of the movement changes
