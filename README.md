@@ -16,14 +16,17 @@ Examples are presented using Visual Studio 2015 IDE and Git CLI
 Moving a file is quite easy and there are two methods to accomplish it:
 
 #### Copy-Paste the file from *Source* to *Destination*(works also with drag-and-drop)
-Pre drag-and-drop
+*Pre drag-and-drop*
 
 ![Pre drag-and-drop](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-pre-drag-and-drop.PNG)
 
-Post drag-and-drop
+*Post drag-and-drop*
 
 ![Pre drag-and-drop](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-post-drag-and-drop.PNG)
-   
+
+*Staged changes*
+
+![Pre drag-and-drop](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-staged-changes.PNG)
    
    
 #### Run the following command
