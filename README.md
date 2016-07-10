@@ -26,14 +26,19 @@ Moving a file is quite easy and there are two methods to accomplish it:
 
 *Staged changes*
 
-![Pre drag-and-drop](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-staged-changes.PNG)
+![Staged changes](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-staged-changes.PNG)
 
 *History after check in*
 
-![Pre drag-and-drop](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-history.PNG)  
+![History after check in](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-history.PNG)  
    
 #### Run git cli command
 >git mv *source_file* *destination_file*
 
 A good example  would be the following:
 >git mv *Git.History.Web\Helpers\MovableSecurityHelperV5.cs* *Git.History.Web\Filters\MovableSecurityHelperV5.cs*
+
+Running the following command will inform you of the movement changes
+> git status
+
+![Git status](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-git-status.PNG)
