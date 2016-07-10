@@ -53,3 +53,5 @@ All the steps described above apply here as well. The only addition to this part
 If you only have to move and edit a file, perform the steps described [above](#move-a-file) and also the additional edits you require.
 
 ## Split a file
+Preserving the history of a file while moving/editing it is pretty easy as we already saw.
+Splitting a file into two while preserving the history on the both ends it's a whole different adventure which I'll describe bellow.
