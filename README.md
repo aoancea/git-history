@@ -9,7 +9,7 @@ Examples are presented using Visual Studio 2015 IDE and Git CLI
 
 ## Abstract
  * [Move a file](#move-a-file)
- * Move a file and edit it at the same time
+ * Edit and move a file
  * Split a file
 
 ## Move a file
