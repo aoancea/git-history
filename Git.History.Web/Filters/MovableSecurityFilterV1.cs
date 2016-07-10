@@ -7,5 +7,9 @@ namespace Git.History.Web.Filters
 {
     public class MovableSecurityFilterV1
     {
+        public void Method1()
+        {
+
+        }
     }
 }
