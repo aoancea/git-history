@@ -61,3 +61,7 @@ Splitting a file into two while preserving the history on the both ends it's a w
  * The trick into preserving the history on both files is to create a new **branch**
  * We will have to move/edit the file in the newly created branch then merge it with the current one
  * This will create a conflict, but we will ***keep*** the new file from the new branch
+
+*Create a new branch*
+
+![Create a new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-create-new-branch.PNG)
