@@ -11,9 +11,18 @@ These actions are very common in projects where following certain guidelines req
  * Split a file
 
 ## Move a file
- * Moving a file is quite easy and there are two methods to accomplish it:
+Moving a file is quite easy and there are two methods to accomplish it:
 
-   Copy-Paste the file from **Source** to **Destination**(works also with drag-and-drop)
+#### Copy-Paste the file from *Source* to *Destination*(works also with drag-and-drop)
+Pre drag-and-drop
+
+![Pre drag-and-drop](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-pre-drag-and-drop.PNG)
+
+Post drag-and-drop
+
+![Pre drag-and-drop](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-post-drag-and-drop.PNG)
    
-   Run the following command
-   >git mv *source_file* *destination_file*
+   
+   
+#### Run the following command
+>git mv *source_file* *destination_file*
