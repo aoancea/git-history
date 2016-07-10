@@ -73,3 +73,20 @@ Splitting a file into two while preserving the history on the both ends it's a w
 *Switch to new branch*
 
 ![Switch to new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-switch-to-new-branch.PNG)
+
+*Rename and Move file on new branch*
+
+![Rename and Move file on new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-rename-and-move-file-on-new-branch.PNG)
+
+*Switch to master branch*
+
+![Switch to master branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-switch-to-master-branch.PNG)
+
+*Open command prompt on 'master' branch*
+
+![Open command prompt on master branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-open-command-prompt.PNG)
+
+*Run the merge command*
+>git merge --no-ff split-helper-v5
+
+![Switch to master branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-run-merge-in-git-cli.PNG)
