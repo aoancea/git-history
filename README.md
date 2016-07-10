@@ -42,3 +42,5 @@ Running the following command will inform you of the movement changes
 > git status
 
 ![Git status](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-git-status.PNG)
+
+From this point, we can just commit and check the history of the moved file as described above
