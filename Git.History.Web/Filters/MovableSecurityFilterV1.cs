@@ -16,5 +16,10 @@ namespace Git.History.Web.Filters
         {
 
         }
+
+        public void Method3()
+        {
+
+        }
     }
 }
