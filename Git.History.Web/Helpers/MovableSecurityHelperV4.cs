@@ -11,5 +11,10 @@ namespace Git.History.Web.Helpers
         {
 
         }
+
+        public void Method2()
+        {
+
+        }
     }
 }
