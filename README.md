@@ -90,3 +90,19 @@ Splitting a file into two while preserving the history on the both ends it's a w
 >git merge --no-ff split-helper-v5
 
 ![Switch to master branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-run-merge-in-git-cli.PNG)
+
+*Merge conflicts*
+
+![Merge conflicts](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-merge-conflicts.PNG)
+
+*Merge conflicts detailed*
+
+![Merge conflicts detailed](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-merge-conflicts-detailed.PNG)
+
+*Keep file from 'master' branch*
+
+![Keep file from master branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-keep-file-from-master-branch.PNG)
+
+*Keep file from new branch*
+
+![Keep file from new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-keep-file-from-new-branch.PNG)
