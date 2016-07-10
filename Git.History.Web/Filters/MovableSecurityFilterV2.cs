@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Git.History.Web.Helpers
+namespace Git.History.Web.Filters
 {
-    public class MovableSecurityHelperV2
+    public class MovableSecurityFilterV2
     {
         public void Method1()
         {
