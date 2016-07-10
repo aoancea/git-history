@@ -62,7 +62,7 @@ Splitting a file into two while preserving the history on the both ends it's a w
  * We will have to move/edit the file in the newly created branch then merge it with the current one
  * This will create a conflict, but we will ***keep*** the new file from the new branch
 
-*Create a new branch*
+*Create 'split-helper-v5' branch*
 
 ![Create a new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-create-new-branch.PNG)
 
@@ -70,15 +70,15 @@ Splitting a file into two while preserving the history on the both ends it's a w
 
 ![Rename and Move file on master branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-rename-and-move-file-on-master-branch.PNG)
 
-*Switch to new branch*
+*Switch to 'split-helper-v5' branch*
 
 ![Switch to new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-switch-to-new-branch.PNG)
 
-*Rename and Move file on new branch*
+*Rename and Move file on 'split-helper-v5' branch*
 
 ![Rename and Move file on new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-rename-and-move-file-on-new-branch.PNG)
 
-*Switch to master branch*
+*Switch to 'master' branch*
 
 ![Switch to master branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-switch-to-master-branch.PNG)
 
@@ -103,7 +103,7 @@ Splitting a file into two while preserving the history on the both ends it's a w
 
 ![Keep file from master branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-keep-file-from-master-branch.PNG)
 
-*Keep file from new branch* - this will ensure history for the file on the new branch and thus accomplish the split
+*Keep file from 'split-helper-v5' branch* - this will ensure history for the file on the new branch and thus accomplish the split
 
 ![Keep file from new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-keep-file-from-new-branch.PNG)
 
@@ -120,6 +120,6 @@ Splitting a file into two while preserving the history on the both ends it's a w
 ![Keep file from new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-master-branch-file-history.PNG)
 
 
-*new branch file history*
+*'split-helper-v5' branch file history*
 
 ![Keep file from new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-new-branch-file-history.PNG)
