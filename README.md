@@ -99,7 +99,7 @@ Splitting a file into two while preserving the history on the both ends it's a w
 
 ![Merge conflicts detailed](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-merge-conflicts-detailed.PNG)
 
-*Keep file from 'master' branch*
+*Keep file from 'master' branch* - this will ensure history for the file on the 'master' branch
 
 ![Keep file from master branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-keep-file-from-master-branch.PNG)
 
