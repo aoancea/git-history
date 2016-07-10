@@ -54,4 +54,10 @@ If you only have to move and edit a file, perform the steps described [above](#m
 
 ## Split a file
 Preserving the history of a file while moving/editing it is pretty easy as we already saw.
+
 Splitting a file into two while preserving the history on the both ends it's a whole different adventure which I'll describe bellow.
+
+#### The trick
+ * The trick into preserving the history on both files is to create a new **branch**
+ * We will have to move/edit the file in the newly created branch then merge it with the current one
+ * This will create a conflict, but we will ***keep*** the new file from the new branch
