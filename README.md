@@ -66,6 +66,10 @@ Splitting a file into two while preserving the history on the both ends it's a w
 
 ![Create a new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-create-new-branch.PNG)
 
+*Rename and Move file on 'master' branch*
+
+![Rename and Move file on master branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-rename-and-move-file-on-master-branch.PNG)
+
 *Switch to new branch*
 
 ![Switch to new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-switch-to-new-branch.PNG)
