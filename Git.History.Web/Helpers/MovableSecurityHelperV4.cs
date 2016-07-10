@@ -7,5 +7,9 @@ namespace Git.History.Web.Helpers
 {
     public class MovableSecurityHelperV4
     {
+        public void Method1()
+        {
+
+        }
     }
 }
