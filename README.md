@@ -9,7 +9,7 @@ Examples are presented using Visual Studio 2015 IDE and Git CLI
 
 ## Abstract
  * [Move a file](#move-a-file)
- * Edit and move a file
+ * [Edit and move a file](#edit-and-move-a-file)
  * Split a file
 
 ## Move a file
@@ -44,3 +44,5 @@ Running the following command will inform you of the movement changes
 ![Git status](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-git-status.PNG)
 
 From this point, we can just commit and check the history of the moved file as described above
+
+## Edit and move a file
