@@ -111,6 +111,6 @@ Splitting a file into two while preserving the history on the both ends it's a w
 
 ![Keep file from new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-leave-deleted-file-from-both-branches.PNG)
 
-*Commit merge changes*
+*Commit merge changes* - don't bother the ***[add]*** status of the file
 
 ![Keep file from new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-commit-conflict-changes.PNG)
