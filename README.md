@@ -10,7 +10,7 @@ Examples are presented using Visual Studio 2015 IDE and Git CLI
 ## Abstract
  * [Move a file](#move-a-file)
  * [Edit and move a file](#edit-and-move-a-file)
- * Split a file
+ * [Split a file](#split-a-file)
 
 ## Move a file
 These steps are advised to be taken when you do not have to change anything in a file, just move it, but as you would see in the second part, [Edit and move a file](#edit-and-move-a-file) the outcome is identical.
@@ -51,3 +51,5 @@ From this point, we can just commit and check the history of the moved file as d
 All the steps described above apply here as well. The only addition to this part is the fact that editing the moved file will have the same result.
 
 If you only have to move and edit a file, perform the steps described [above](#move-a-file) and also the additional edits you require.
+
+## Split a file
