@@ -123,3 +123,7 @@ Splitting a file into two while preserving the history on the both ends it's a w
 ***'split-helper-v5'*** *branch file history*
 
 ![Keep file from new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-new-branch-file-history.PNG)
+
+Completing these steps will make you end up with two files which have the same history
+
+You will still have to move them in their right place, if you haven't in the above steps. For that, follow the instruction presented in [move a file](#move-a-file)
