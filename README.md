@@ -32,5 +32,8 @@ Moving a file is quite easy and there are two methods to accomplish it:
 
 ![Pre drag-and-drop](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-history.PNG)  
    
-#### Run the following command
+#### Run git cli command
 >git mv *source_file* *destination_file*
+
+A good example  would be the following:
+>git mv *Git.History.Web\Helpers\MovableSecurityHelperV5.cs* *Git.History.Web\Filters\MovableSecurityHelperV5.cs*
