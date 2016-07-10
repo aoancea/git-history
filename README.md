@@ -11,3 +11,9 @@ These actions are very common in projects where following certain guidelines req
  * Split a file
 
 ## Move a file
+ * Moving a file is quite easy and there are two methods to accomplish it:
+
+   Copy-Paste the file from **Source** to **Destination**(works also with drag-and-drop)
+   
+   Run the following command
+   >git mv *source_file* *destination_file*
