@@ -27,7 +27,10 @@ Moving a file is quite easy and there are two methods to accomplish it:
 *Staged changes*
 
 ![Pre drag-and-drop](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-staged-changes.PNG)
-   
+
+*History after check in*
+
+![Pre drag-and-drop](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-history.PNG)  
    
 #### Run the following command
 >git mv *source_file* *destination_file*
