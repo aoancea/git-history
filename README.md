@@ -13,6 +13,8 @@ Examples are presented using Visual Studio 2015 IDE and Git CLI
  * Split a file
 
 ## Move a file
+These steps are advised to be taken when you do not have to change anything in a file, just move it, but as you would see in the second part, [Edit and move a file](#edit-and-move-a-file) the outcome is identical.
+
 Moving a file is quite easy and there are two methods to accomplish it:
 
 #### Copy-Paste the file from *Source* to *Destination*(works also with drag-and-drop)
