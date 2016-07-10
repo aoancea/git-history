@@ -7,5 +7,10 @@ namespace Git.History.Web.Helpers
 {
     public class MovableSecurityHelperV2
     {
+        public void Method1()
+        {
+
+        }
+
     }
 }
