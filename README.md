@@ -48,3 +48,6 @@ Running the following command will inform you of the movement changes
 From this point, we can just commit and check the history of the moved file as described above
 
 ## Edit and move a file
+All the steps described above apply here as well. The only addition to this part is the fact that editing the moved file will have the same result.
+
+If you only have to move and edit a file, perform the steps described above and also the additional edits you require.
