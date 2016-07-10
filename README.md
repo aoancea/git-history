@@ -5,6 +5,8 @@ This repository tries to explain and show at the same time how you can **move** 
 
 These actions are very common in projects where following certain guidelines requires to move things arround but at the same time keep all the history.
 
+Examples are presented using Visual Studio 2015 IDE and Git CLI
+
 ## Abstract
  * [Move a file](#move-a-file)
  * Move a file and edit it at the same time
