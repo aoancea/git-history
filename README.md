@@ -23,7 +23,10 @@ Pre drag-and-drop
 Post drag-and-drop
 
 ![Pre drag-and-drop](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-post-drag-and-drop.PNG)
-   
+
+Staged changes
+
+![Pre drag-and-drop](https://raw.githubusercontent.com/aoancea/git-history/master/assets/move-a-file-staged-changes.PNG)
    
    
 #### Run the following command
