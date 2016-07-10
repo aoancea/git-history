@@ -36,7 +36,7 @@ Moving a file is quite easy and there are two methods to accomplish it:
 >git mv *source_file* *destination_file*
 
 A good example  would be the following:
->git mv *Git.History.Web\Helpers\MovableSecurityHelperV5.cs* *Git.History.Web\Filters\MovableSecurityHelperV5.cs*
+>git mv *Git.History.Web\****Helpers****\MovableSecurityHelperV5.cs* *Git.History.Web\****Filters****\MovableSecurityHelperV5.cs*
 
 Running the following command will inform you of the movement changes
 > git status
