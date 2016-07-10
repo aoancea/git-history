@@ -114,3 +114,12 @@ Splitting a file into two while preserving the history on the both ends it's a w
 *Commit merge changes* - don't bother the ***[add]*** status of the file
 
 ![Keep file from new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-commit-conflict-changes.PNG)
+
+*'master' branch file history*
+
+![Keep file from new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-master-branch-file-history.PNG)
+
+
+*new branch file history*
+
+![Keep file from new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-new-branch-file-history.PNG)
