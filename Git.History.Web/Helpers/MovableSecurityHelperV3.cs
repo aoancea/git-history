@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace Git.History.Web.Helpers
+﻿namespace Git.History.Web.Helpers
 {
-    public class MovableSecurityHelperTempV3
+    public class MovableSecurityHelperV3
     {
         public void Method1()
         {
