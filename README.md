@@ -98,6 +98,12 @@ public class MySecondClass
 }
 ```
 
+#### Usual procedure - with no history
+
+Usually, people tend to simply create a *new destination file* and ***copy*** over the implementation they need from the *source file*. This will make Git to track changes of this *new destination file* from the time it was created which is the time of the movement of the implementation.
+
+This will result in the loss of all history for those bits of code which were moved from *source* to *destination*
+
 #### The trick
  * The trick into preserving the history on both files is to create a new **branch**
  * We will have to move/edit the file in the newly created branch then merge it with the current one
