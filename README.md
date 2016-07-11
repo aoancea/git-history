@@ -86,7 +86,7 @@ Splitting a file into two while preserving the history on the both ends it's a w
 
 ![Open command prompt on master branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-open-command-prompt.PNG)
 
-*Run the merge command*
+*Run the merge command* - be aware that mergeing directly from Visual Studio 2015 does not give the same results
 >git merge --no-ff split-helper-v5
 
 ![Switch to master branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-run-merge-in-git-cli.PNG)
