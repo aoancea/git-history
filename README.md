@@ -76,7 +76,7 @@ public class MyFirstClass
 }
 ```
 
-And we want to move method ***Method1***  into a difference class, let's say ***MySecondClass***, but preserve the history that it accumulated in ***MyFirstClass*** for all kinds of reasons
+And we want to move method ***Method1***  into a different class, let's say ***MySecondClass***, but preserve the history that it accumulated in ***MyFirstClass*** for all kinds of reasons
 
 The outcome for which we want aim is the following
 
