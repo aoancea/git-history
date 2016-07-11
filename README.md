@@ -57,6 +57,47 @@ Preserving the history of a file while moving/editing it is pretty easy as we al
 
 Splitting a file into two while preserving the history on the both ends it's a whole different adventure which I'll describe bellow.
 
+#### What exactly do we mean with *splitting a file*
+
+Let's take the scenario in which a class contains two methods like the one below
+
+```c#
+public class MyFirstClass
+{
+   public void Method1()
+   {
+      ...
+   }
+   
+   public void Method2()
+   {
+      ...
+   }
+}
+```
+
+And we want to move method ***Method1***  into a difference class, let's say ***MySecondClass***, but preserve the history that it accumulated in ***MyFirstClass*** for all kinds of reasons
+
+The outcome for which we want aim is the following
+
+```c#
+public class MyFirstClass
+{
+   public void Method1()
+   {
+      ...
+   }
+}
+
+public class MySecondClass
+{
+   public void Method2()
+   {
+      ...
+   }
+}
+```
+
 #### The trick
  * The trick into preserving the history on both files is to create a new **branch**
  * We will have to move/edit the file in the newly created branch then merge it with the current one
