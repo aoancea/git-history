@@ -146,11 +146,11 @@ This will result in the loss of all history for those bits of code which were mo
 
 ![Merge conflicts detailed](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-merge-conflicts-detailed.PNG)
 
-*Keep file from* ***'master'*** *branch* - this will ensure history for the file on the 'master' branch
+*Keep file from* ***'master'*** *branch* - this will ensure history for the file on the ***'master'*** branch
 
 ![Keep file from master branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-keep-file-from-master-branch.PNG)
 
-*Keep file from* ***'split-helper-v5'*** *branch* - this will ensure history for the file on the new branch and thus accomplish the split
+*Keep file from* ***'split-helper-v5'*** *branch* - this will ensure history for the file on the ***'split-helper-v5'*** branch and thus accomplish the split
 
 ![Keep file from new branch](https://raw.githubusercontent.com/aoancea/git-history/master/assets/split-a-file-keep-file-from-new-branch.PNG)
 
